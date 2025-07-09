@@ -39,4 +39,11 @@ any student record in main.py.
     `uvicorn main:app --reload`<br>
     Open the URL `http://127.0.0.1:8000/docs` to access the Swagger UI.
 
+## References
+
+    w3schools <br>
+    GeeksForGeeks<br>
+    FastAPI documentation<br>
+    Stack Overflow
+
 
