@@ -41,9 +41,9 @@ any student record in main.py.
 
 ## References
 
-    w3schools <br>
-    GeeksForGeeks<br>
-    FastAPI documentation<br>
+    w3schools
+    GeeksForGeeks
+    FastAPI documentation
     Stack Overflow
 
 
