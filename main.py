@@ -43,4 +43,7 @@ def delete_student(student_id:int):# in order to delete a student record, we nee
     if student_id not in students:
         raise HTTPException(status_code=404,detail="Student does not exist")
     del students[student_id]
+    return {
+        "message":"Student record deleted"
+    }
 
